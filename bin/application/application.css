@@ -1,0 +1,36 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+#idaddButton {
+	-fx-color:green;
+	-fx-cursor: hand;
+	
+}
+#iddeleteButton {
+	-fx-color:red;
+	-fx-cursor: hand;
+}
+#idupdateButton {
+	-fx-color:orange;
+	-fx-text-fill:white;
+	-fx-cursor: hand;
+}
+#idprofileButton {
+	-fx-color:#BA86F7;
+	-fx-text-fill:white;
+	-fx-cursor: hand;
+}
+#idquittButton {
+	-fx-color:gray;
+	-fx-text-fill:white;
+	-fx-cursor: hand;
+}
+
+#idtoprintButton {
+	-fx-color:#3D9DD9;
+	-fx-text-fill:white;
+	-fx-cursor: hand;
+}
+#idretourButton {
+	-fx-color:#BA86F7;
+	-fx-text-fill:white;
+	-fx-cursor: hand;
+}
